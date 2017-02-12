@@ -3,7 +3,7 @@
 Ce dépôt est une sauvegarde en cas de formatage ou de perte de mes informations préférées concernant mon installation Linux.
 
 
-[![Aperçu](screenshot.png)](https://raw.githubusercontent.com/maxhelias/dotfiles/master/screenshots/screenshot.png)
+[![Aperçu](screenshots/screenshot.png)](https://raw.githubusercontent.com/maxhelias/dotfiles/master/screenshots/screenshot.png)
 
 La liste des paquets installés sur ma machine est disponible dans le fichier package.list.
 
