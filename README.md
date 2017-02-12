@@ -15,15 +15,16 @@ cat package.list | xargs yaourt -S --needed --noconfirm
 
 ## Remapper touches du clavier
 
-Pour activer la touche "Scroll Lock" qui me permet d'activer les LED du clavier.
+Pour activer la touche "Scroll Lock" qui me permet d'activer les LED sur mon clavier CMStorm Devastator.
 
 ```
 # Active les LED
-xset led 3
+xset led on
 
 # Désactive les LED
-xset -led 3
+xset -led off
 ```
+Ou utiliser le script 'led-toggle.sh' et de le mapper sur une touche du clavier (Attention : Le pavé numérique se désactive pendant x seconde. A debuger).
 
 ## Trouver le process qui utilise un port
 
