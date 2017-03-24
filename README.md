@@ -31,3 +31,8 @@ Ou utiliser le script 'led-toggle.sh' et de le mapper sur une touche du clavier 
 ```
 sudo netstat -nlp | grep :80
 ```
+## Augmenter la taille de ma partition /tmp
+
+```
+mount /tmp -o remount,size=8G
+```
