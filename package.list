@@ -12,6 +12,8 @@ netbeans
 nginx
 npm
 php
+phpstorm
+phpstorm-jre
 php-apcu
 php-apcu-bc
 php-fpm
@@ -24,6 +26,7 @@ pulseaudio-alsa
 pulseaudio-equalizer
 pulseaudio-jack
 python-pip
+qtwebkits
 redis
 screenfetch
 skypeforlinux-bin
