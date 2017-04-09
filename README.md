@@ -38,7 +38,7 @@ sudo netstat -nlp | grep :80
 mount /tmp -o remount,size=8G
 ```
 
-## Mes scripts raccourcit pour composer
+## Mes raccourcis pour composer
 
 ```
 "scripts": {
