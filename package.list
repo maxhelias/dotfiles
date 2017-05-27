@@ -1,11 +1,15 @@
 arc-icon-theme
+arduino
 avocode
 chromium
 composer
 discord
 docker
+git
+gitkraken
 gtk-arc-flatabulous-theme-git
 jdk
+mailutils
 mariadb
 nano
 netbeans
@@ -20,6 +24,7 @@ php-fpm
 php-gd
 php-intl
 php-redis
+php-sqlite
 postfix
 pulseaudio
 pulseaudio-alsa
@@ -30,9 +35,12 @@ qtwebkits
 redis
 screenfetch
 skypeforlinux-bin
+sqlitebrowser
 spotify
 sublime-text-dev
 thunderbird
+tmux
+tmux-bash-completion
 vagrant
 vi
 vim
@@ -40,3 +48,4 @@ vlc
 wget
 xdebug
 xfce4-whiskermenu-plugin
+zsh

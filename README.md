@@ -11,6 +11,12 @@ La liste des paquets installés sur ma machine est disponible dans le fichier pa
 cat package.list | xargs yaourt -S --needed --noconfirm
 ```
 
+Ajouter les deux lignes dans le fichier .bashrc pour l'utilisation de ZSH sans l'accès root
+```
+export SHELL=/bin/zsh
+exec /bin/zsh -l
+```
+
 # Trucs & Astuces
 
 ## Remapper touches du clavier
